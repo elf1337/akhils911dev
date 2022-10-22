@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Akhil
-- 👨‍💻 I am a penetration tester focused on web Application and network Security
+- 👨‍💻 I am a penetration tester focused on web application and network Security
